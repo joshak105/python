@@ -1,0 +1,86 @@
+.westButton{
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.westButton:hover{
+    background-color: lightblue;
+    color: white;
+    cursor: pointer;
+}
+.westButton:active{
+    background-color: lightblue;
+    color: white;
+    cursor: pointer;
+}
+.westButton:active:hover{
+    background-color: lightblue;
+    color: white;
+    cursor: pointer;
+}
+.westButton:active:active{
+    background-color: lightblue;
+    color: white;
+    cursor: pointer;
+}
+.southButton{
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+.southButton:active{
+    background-color: lightblue;
+    color: white;
+    cursor: pointer;
+}
+.southButton:active:hover{
+    background-color: lightblue;
+    color: white;
+    cursor: pointer;
+
+}
+.southButton:active:active{
+    background-color: lightblue;
+    color: white;
+    cursor: pointer;
+}
+.northButton{
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.northButton:active{
+    background-color: lightblue;
+    color: white;
+    cursor: pointer;
+}
+.northButton:active:hover{
+    background-color: lightblue;
+    color: white;
+    cursor: pointer;
+}
+.northButton:active:active{
+    background-color: lightblue;
+    color: white;
+    cursor: pointer;
+}
+.northButton:active:active{
+    background-color: lightblue;
+    color: white;
+    cursor: pointer;
+
+}
+.eastButton{
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.eastButton:active{
+    background-color: lightblue;
+    color: white;
+    cursor: pointer;
+}
+
+
+
